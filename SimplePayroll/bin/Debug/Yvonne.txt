@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2020
+====================
+Name of Staff: Yvonne
+Hours Worked: 9
+
+Basic Pay: £450.00
+Allowance: £0.00
+
+====================
+Total Pay: £450.00
+====================

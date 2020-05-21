@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2020
+====================
+Name of Staff: Matt
+Hours Worked: 50
+
+Basic Pay: £2,500.00
+Allowance: £0.00
+
+====================
+Total Pay: £2,500.00
+====================

@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2020
+====================
+Name of Staff: Louise
+Hours Worked: 400
+
+Basic Pay: £12,000.00
+Overtime: £3,720.00
+
+====================
+Total Pay: £15,720.00
+====================
